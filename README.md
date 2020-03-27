@@ -26,4 +26,4 @@ Please fork this projects and add a Pull Request.
 
 ## Copyright
 
-(C) Rave-On Productions. All rights reserved.
+(C) Rave-On Productions. - We hire them, just to fire them!
