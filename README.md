@@ -5,6 +5,8 @@ how Git and Github work.
 
 ## Introduction
 
+This here example shows several thngs
+including the git repository and versions.
 
 ## Purpose
 
