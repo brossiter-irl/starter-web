@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brian Rossiter	brian.rossiter@gmail.com
 
 # THANKS
 
