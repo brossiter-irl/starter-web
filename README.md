@@ -10,10 +10,13 @@ including the git repository and versions.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+A very good question? What is YOUR purpose?
+And indeed the bigger question: what is THE purpose?
 
 ## Deployment
 
+This section describes the deployment steps involved
+with this project.
 
 ## How To Contribute
 
