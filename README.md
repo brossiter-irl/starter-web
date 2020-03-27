@@ -20,3 +20,6 @@ with this project.
 
 ## How To Contribute
 
+## Copyright
+
+(C) Rave-On Productions. All rights reserved.
