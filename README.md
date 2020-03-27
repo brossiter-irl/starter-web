@@ -20,6 +20,8 @@ with this project.
 
 ## How To Contribute
 
+Please fork this projects and add a Pull Request.
+
 ## Copyright
 
 (C) Rave-On Productions. All rights reserved.
