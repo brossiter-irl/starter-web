@@ -2,7 +2,8 @@
 
 This is a simple website project to show
 how Git and Github work. Adding some more
-text here later.
+text here later, then more changes again
+as needed.
 
 ## Introduction
 
